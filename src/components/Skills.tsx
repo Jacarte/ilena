@@ -1,12 +1,12 @@
 const skills = [
-  { name: 'SQL', level: 90 },
-  { name: 'Python', level: 80 },
-  { name: 'Power BI', level: 85 },
-  { name: 'Excel', level: 90 },
-  { name: 'Adobe Package', level: 75 },
-  { name: 'Click', level: 70 },
-  { name: 'DBT Core', level: 75 },
-  { name: 'Airflow', level: 70 },
+  { name: 'SQL', level: 40 },
+  { name: 'Python', level: 30 },
+  { name: 'Power BI', level: 50 },
+  { name: 'Excel', level: 40 },
+  { name: 'Adobe Package', level: 60 },
+  { name: 'Click', level: 30 },
+  { name: 'DBT Core', level: 30 },
+  { name: 'Apache Airflow', level: 30 },
 ];
 
 const tools = ['SQL', 'Python', 'Power BI', 'Excel', 'Adobe Package', 'Click', 'DBT Core', 'Airflow'];
