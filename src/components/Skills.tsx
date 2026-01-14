@@ -4,7 +4,7 @@ const skills = [
   { name: 'Power BI', level: 50 },
   { name: 'Excel', level: 40 },
   { name: 'Adobe Package', level: 60 },
-  { name: 'Click', level: 30 },
+  { name: 'Qlick', level: 30 },
   { name: 'DBT Core', level: 30 },
   { name: 'Apache Airflow', level: 30 },
 ];
